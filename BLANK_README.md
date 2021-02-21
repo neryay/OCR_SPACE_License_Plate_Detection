@@ -48,7 +48,7 @@ The program was built in using the following:
 In order to use the OCR API, you will need to get the [API Key](https://us11.list-manage.com/subscribe?u=ce17e59f5b68a2fd3542801fd&id=252aee70a1)
 
 ### For More Information
-For more information please visit the [Documentation]()
+For more information please visit the [Documentation](https://github.com/neryay/OCR_SPACE_License_Plate_Detection/blob/master/Documentation.pdf)
 
 
 
